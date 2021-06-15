@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zoomzooom6/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/zoomzooom6/jest-another-RPG#readme"
+  "homepage": "https://github.com/zoomzooom6/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
 }
